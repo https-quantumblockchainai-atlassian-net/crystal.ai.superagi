@@ -71,7 +71,7 @@ loguru==0.7.0
 lxml==4.9.2
 Mako==1.2.4
 MarkupSafe==2.1.2
-marshmallow==3.19.0
+marshmallow==3.26.2
 marshmallow-enum==1.5.1
 multidict==6.0.4
 mypy-extensions==1.0.0
@@ -147,7 +147,7 @@ pylint==2.17.4
 pre-commit==3.3.3
 pytest-cov==4.1.0
 pytest-mock==3.11.1
-transformers==4.30.2
+transformers==5.0.0rc1
 pypdf==3.11.0
 python-pptx==0.6.21
 Pillow==9.5.0
